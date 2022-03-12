@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "obstetricia",
+    "slug": "obstetricia",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
